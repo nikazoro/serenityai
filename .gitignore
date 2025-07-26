@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs and local files
+*.log
+*.sqlite3
+.env
+
+# Media files
+*.mp3
+*.jpg
+*.txt
+!requirements.txt
+
+data/
+uploads/
+
+project_structure.text
+
+updates.txt
+
+journal.db
+

@@ -1,0 +1,14 @@
+fastapi
+qdrant-client
+sentence-transformers
+requests
+python-dotenv
+pydantic
+sqlalchemy
+faster-whisper
+pillow
+pytesseract
+ctranslate2
+uvicorn[standard]
+python-multipart
+streamlit
